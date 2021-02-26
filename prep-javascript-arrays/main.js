@@ -27,5 +27,5 @@ console.log(thirdElement);
 var arrayLength = languagesArray.length;
 console.log(arrayLength);
 
-var lastItem = languagesArray[5];
+var lastItem = languagesArray[arrayLength - 1];
 console.log(lastItem);
